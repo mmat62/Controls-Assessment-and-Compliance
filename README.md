@@ -50,3 +50,13 @@ The potential impact from the loss of an asset is rated as medium, because the I
 - There is no centralized password management system that enforces the password policy’s minimum requirements, which sometimes affects productivity when employees/vendors submit a ticket to the IT department to recover or reset a password.
 - While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
+
+## Controls assessment and compliance checklist
+
+The controls assessment and compliance checklist is available [here](https://github.com/mmat62/Controls-Assessment-and-Compliance/blob/main/Checklist-and-recommendations.pdf).
+
+## Recommendations:
+
+Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
+
+To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
